@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "name": "e",
+      "img": "https://animaljournal.ru/articles/pets/grizuni/morskaya_svinka/morskaya_svinka_soderjanie.jpg",
+      "phone": "324234",
+      "id": 4
+    },
+    {
+      "name": "nurik",
+      "img": "https://svinki.ru/media/original_images/s1200.jpg",
+      "phone": "0774660636",
+      "id": 5
+    },
+    {
+      "name": "nurikaaa",
+      "img": "34",
+      "phone": "32423",
+      "id": 6
+    }
+  ]
+}
